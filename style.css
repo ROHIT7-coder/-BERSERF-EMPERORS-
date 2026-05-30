@@ -1,0 +1,18 @@
+body{
+    background-color: cornsilk;
+}
+h1{
+    font-style: italic; color: coral;
+}
+h2{
+    font-style: italic; color: chocolate;
+}
+h3{
+    font-style: italic; color: goldenrod;
+}
+hr{
+    color:rgb(0, 0, 0);
+}
+p{
+    color: darkcyan;
+}
